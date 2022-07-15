@@ -1,1 +1,1 @@
-# BotBasicPY
+1) python main.py
